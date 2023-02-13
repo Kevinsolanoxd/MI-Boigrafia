@@ -1,0 +1,20 @@
+.columna{
+    background:#853400;
+    padding: 30px;
+    color:#ffff89 ;
+}
+.titulo{
+    background: #c06500;
+    padding: 20px; ;
+    color: #ffcc50;
+}
+.texto{
+    color: #853400;
+}
+.multi {
+    background-image: linear-gradient(to left, violet, indigo, green, blue, yellow, orange, red);
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
