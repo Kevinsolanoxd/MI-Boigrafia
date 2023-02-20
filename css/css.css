@@ -1,18 +1,18 @@
 .columna{
-    background:#853400;
+    background:#af7ead;
     padding: 30px;
-    color:#ffff89 ;
+    color:#FDDBFF ;
 }
 .titulo{
-    background: #c06500;
+    background: #af7ead;
     padding: 20px; ;
-    color: #ffcc50;
+    color: #FDDBFF;
 }
 .texto{
-    color: #853400;
+    color: #af7ead;
 }
 .multi {
-    background-image: linear-gradient(to left, violet, indigo, green, blue, yellow, orange, red);
+    background-image: linear-gradient(to left, #FF5733 , #C70039 , #900C3F , #581845 );
     -webkit-background-clip: text;
     -moz-background-clip: text;
     background-clip: text;
